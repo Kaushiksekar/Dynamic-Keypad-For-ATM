@@ -1,0 +1,47 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\cce3cfafd65511e66b5bbaf21ab68b19-a48a8ab3626ae9db>cd D:\uploadedFiles\8198b91bbf1b01f7a3272a7930cbda-ddcc5216d19341a\ 
+
+D:\uploadedFiles\8198b91bbf1b01f7a3272a7930cbda-ddcc5216d19341a>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\8198b91bbf1b01f7a3272a7930cbda-ddcc5216d19341a\p1avo1886418cc1cou17e2j8h1rlk4.tar.gz" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1avo1886418cc1cou17e2j8h1rlk4.tar.gz
+
+  extracting: p1avo1886418cc1cou17e2j8h1rlk4.tar    extracting: built-jar.properties                                OK
+  extracting: project.xml                                         OK
+  extracting: WelcomeScreen.class                                 OK
+  extracting: KeypadForVisuallyChallenged.class                   OK
+  extracting: private.xml                                         OK
+  extracting: README.TXT                                          OK
+  extracting: KeypadForVisuallyChallenged$1.class                 OK
+  extracting: build-impl.xml                                      OK
+  extracting: genfiles.properties                                 OK
+  extracting: ATMDynamicKeypad.class                              OK
+  extracting: AccountScreen.java                                  OK
+  extracting: DynamicKeypadForATM.jar                             OK
+  extracting: KeypadForVisuallyChallenged.java                    OK
+  extracting: ATMDynamicKeypad.java                               OK
+  extracting: project.properties                                  OK
+  extracting: WelcomeScreen.java                                  OK
+  extracting: private.properties                                  OK
+  extracting: build.xml                                           OK
+  extracting: manifest.mf                                         OK
+  extracting: config.properties                                   OK
+  extracting: AccountScreen.class                                 OK
+
+D:\uploadedFiles\8198b91bbf1b01f7a3272a7930cbda-ddcc5216d19341a>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\8198b91bbf1b01f7a3272a7930cbda-ddcc5216d19341a\p1avo1886418cc1cou17e2j8h1rlk4.tar.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+Archive File: p1avo1886418cc1cou17e2j8h1rlk4.tar.zip
+
+   adding: AccountScreen.class                                 OK
+   adding: AccountScreen.java                                  OK
+   adding: ATMDynamicKeypad.class                              OK
+   adding: ATMDynamicKeypad.java                               OK
+   adding: batchresult.z
